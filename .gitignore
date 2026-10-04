@@ -1,0 +1,18 @@
+# Virtual environment
+lab_01/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Test and coverage output
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+pytest-report.xml
+
+# Model outputs (produced by the workflow)
+artifacts/
