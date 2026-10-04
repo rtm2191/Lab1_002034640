@@ -49,4 +49,5 @@ python -m src.model                                         # train, save model,
 
 
 MIN_MALIGNANT_RECALL from 0.93 to 0.99 to test quality gate
-<img width="1808" height="784" alt="image" src="https://github.com/user-attachments/assets/637860d6-4c0f-4054-80b4-fc8d2f1970b7" />
+<img width="1792" height="648" alt="image" src="https://github.com/user-attachments/assets/c1ab8609-1c15-4952-8387-7854534ca26b" />
+
