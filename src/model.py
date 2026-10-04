@@ -31,7 +31,7 @@ RANDOM_STATE = 42
 
 # Quality gate thresholds
 MIN_ACCURACY = 0.93
-MIN_MALIGNANT_RECALL = 0.93
+MIN_MALIGNANT_RECALL = 0.99
 
 
 def load_data(path=DATA_PATH):
