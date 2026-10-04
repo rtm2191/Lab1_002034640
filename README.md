@@ -46,3 +46,7 @@ python -m src.model                                         # train, save model,
 - Tests run on Python 3.10, 3.11, and 3.12 using a matrix.
 - Added ruff linting, pip caching, and a minimum test coverage of 80%.
 - Added a `train` job that only runs after tests pass, saves the model and `metrics.json` as artifacts, and fails if the model is below the quality gate.
+
+
+MIN_MALIGNANT_RECALL from 0.93 to 0.99 to test quality gate
+<img width="1808" height="784" alt="image" src="https://github.com/user-attachments/assets/637860d6-4c0f-4054-80b4-fc8d2f1970b7" />
