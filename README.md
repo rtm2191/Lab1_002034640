@@ -40,7 +40,6 @@ python -m src.model                                         # train, save model,
 
 ## Changes from the original lab
 
-- Replaced the calculator with an ML pipeline that reads from the `data/` folder.
 - Added tests for data quality, model behavior, quality thresholds, and reproducibility.
 - Upgraded GitHub Actions versions (`checkout@v4`, `setup-python@v5`, `upload-artifact@v4`); the original `upload-artifact@v2` is retired.
 - Workflows now run on pull requests and manually, not just on pushes to main.
